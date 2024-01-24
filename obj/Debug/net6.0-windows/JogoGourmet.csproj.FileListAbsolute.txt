@@ -1,0 +1,17 @@
+C:\Git\DotNetGame\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.exe
+C:\Git\DotNetGame\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.deps.json
+C:\Git\DotNetGame\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.runtimeconfig.json
+C:\Git\DotNetGame\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.dll
+C:\Git\DotNetGame\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.pdb
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.csproj.AssemblyReference.cache
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.csproj.GenerateResource.cache
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.AssemblyInfoInputs.cache
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.AssemblyInfo.cs
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.dll
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\refint\JogoGourmet.dll
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.pdb
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.genruntimeconfig.cache
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\ref\JogoGourmet.dll
+C:\Git\DotNetGame\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.MainForm.resources

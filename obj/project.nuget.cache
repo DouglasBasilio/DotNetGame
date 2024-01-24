@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "77WBC6UNWU9aCDYem5GLZffqRzcVXALDTiXOhosy0ZTX2qB+W3nbE2tKNbAHmUAGawroHEQxGWRBu5MOyNeeZA==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\DotNetGame\\JogoGourmet\\JogoGourmet.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.cnova.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

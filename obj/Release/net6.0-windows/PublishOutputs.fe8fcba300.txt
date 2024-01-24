@@ -1,0 +1,5 @@
+C:\Git\DotNetGame\JogoGourmet\bin\Release\net6.0-windows\publish\JogoGourmet.exe
+C:\Git\DotNetGame\JogoGourmet\bin\Release\net6.0-windows\publish\JogoGourmet.dll
+C:\Git\DotNetGame\JogoGourmet\bin\Release\net6.0-windows\publish\JogoGourmet.deps.json
+C:\Git\DotNetGame\JogoGourmet\bin\Release\net6.0-windows\publish\JogoGourmet.runtimeconfig.json
+C:\Git\DotNetGame\JogoGourmet\bin\Release\net6.0-windows\publish\JogoGourmet.pdb
